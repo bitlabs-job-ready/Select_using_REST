@@ -1,0 +1,9 @@
+-create Student class with below variables.
+   -String sname
+    -int sid
+
+-perfom below operations using REST api.
+
+1.perform select opertion TO GET  SPECIFIC RECORD based on id  value.
+2.perform select opertion TO GET ALL RECORDS.
+3.Test above operations in postman tool.
